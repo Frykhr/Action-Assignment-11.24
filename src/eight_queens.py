@@ -22,6 +22,6 @@ def solve_queens(num, x, y):
             count += 1
     return count
 
-x, y = map(int, input().split())
-count = solve_queens(8, x, y)
-print(count)
+# x, y = map(int, input().split())
+# count = solve_queens(8, x, y)
+# print(count)
