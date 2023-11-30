@@ -1,3 +1,4 @@
+import pytest
 from src.eight_queens import solve_queens
 
 def test_queens():
