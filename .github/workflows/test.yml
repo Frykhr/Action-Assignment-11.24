@@ -17,5 +17,5 @@ jobs:
 
     - name: Test with unittest
       run: |
-        python -m unittest test_queens.py
+        python -m unittest testqueens.py
 
